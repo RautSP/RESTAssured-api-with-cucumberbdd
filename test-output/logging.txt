@@ -1,0 +1,37 @@
+Request method:	POST
+Request URI:	https://petstore.swagger.io/
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+C:\Users\Admin\workspace-mohini\apiwithrestassuredcucumberbdd\src\test\resources\json\pet.json
+HTTP/1.1 405 Not Allowed
+Date: Sat, 22 Jun 2024 07:01:37 GMT
+Content-Type: text/html
+Content-Length: 150
+Connection: keep-alive
+Server: nginx
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+X-Frame-Options: DENY
+Content-Security-Policy: frame-ancestors 'none'
+
+<html>
+  <head>
+    <title>405 Not Allowed</title>
+  </head>
+  <body>
+    <center>
+      <h1>405 Not Allowed</h1>
+    </center>
+    <hr/>
+    <center>nginx</center>
+  </body>
+</html>
